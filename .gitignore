@@ -1,0 +1,5 @@
+# not committed: dependencies and caches (dist/ IS committed on purpose, it is the built website)
+.venv/
+__pycache__/
+.DS_Store
+frontend/node_modules/
